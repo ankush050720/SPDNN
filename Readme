@@ -1,0 +1,5 @@
+Implements the MIT SPDNN Challenge on GPU in Colab
+
+You can download the DNN weight matrices and sparse MNIST input data from the following link :
+http://graphchallenge.mit.edu/data-sets
+
